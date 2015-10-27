@@ -1,6 +1,12 @@
-Program Hello;
+Program Hello; // ubah menjadi Program APCI-NIM
 Uses Crt;
 Begin
-  ClrScr;
-  Writeln(‘Hello World’);
-End
+    ClrScr;
+    Writeln(‘Hello’);
+    Writeln(‘1301154132’);
+    Writeln(‘Fiqhi Agung Afriansyah’);
+    Writeln(‘IF3906’);
+    Writeln(‘Ricky’);
+    Writeln(‘1301154216’);
+    Writeln(‘Modul 6’);
+End.
